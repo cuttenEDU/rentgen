@@ -1,0 +1,1 @@
+xray uuid > uuid.txt

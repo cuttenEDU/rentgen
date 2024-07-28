@@ -1,0 +1,1 @@
+python3 gen_vless_url.py $(dig +short myip.opendns.com @resolver1.opendns.com) $(cat pub.key)
