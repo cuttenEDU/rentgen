@@ -10,3 +10,5 @@
 6. Verify that Xray is working with ```sudo systemctl status xray```
 7. Generate Client URL with gen_vless_url.sh
 8. Enjoy the radiation waves :)
+
+*horribly undertested btw*
