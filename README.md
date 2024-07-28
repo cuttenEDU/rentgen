@@ -11,4 +11,4 @@
 7. Generate Client URL with gen_vless_url.sh
 8. Enjoy the radiation waves :)
 
-*horribly undertested btw*
+*kinda undertested btw*
